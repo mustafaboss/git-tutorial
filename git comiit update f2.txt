@@ -1,0 +1,36 @@
+[33mcommit 56e96771e36e39166cda1d51f54101db7aaf45a8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 0277e06 7beca16
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Fri Oct 18 22:22:12 2019 +0500
+
+    Merge branch 'dev'
+
+[33mcommit 7beca160b1c3a26812c01bac72b36ab48a4b5895[m[33m ([m[1;32mdev[m[33m)[m
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Fri Oct 18 22:12:10 2019 +0500
+
+    6th
+
+[33mcommit 0277e069e9085f65570cb3a6782411fdac943707[m
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Fri Oct 18 22:06:22 2019 +0500
+
+    f5
+
+[33mcommit d9bc736b26024fc13bba0315964116dfe02c7795[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Fri Oct 18 13:32:09 2019 +0500
+
+    update f2.txt
+
+[33mcommit 0eee2b30febb11259faff1a1f5cae1f30af5d717[m
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Fri Oct 18 13:09:26 2019 +0500
+
+    f4
+
+[33mcommit d52cf40cf29983e4532200776c61b9b0d5a5a890[m
+Author: ghulam mustafa <mustafashahzaib42@gmail.com>
+Date:   Tue Sep 10 11:37:15 2019 +0500
+
+    first commit
